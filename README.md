@@ -1,6 +1,6 @@
 # Hello, I'm Matheus Sandes Jesus 👋
 
-**Software Engineer | Backend Developer**
+**Software Engineer | Backend-focused Fullstack**
 
 Atuo no desenho e na implementação de soluções escaláveis (APIs, microsserviços e integrações), com ênfase em boa arquitetura, qualidade por testes e entrega contínua.
 
