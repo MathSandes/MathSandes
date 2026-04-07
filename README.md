@@ -36,7 +36,7 @@ Docker · Git · GitHub Actions · AWS
 **Testes**  
 Jest · Vitest · xUnit
 
-**Observability & operations**
+**Observability & operations**  
 Grafana · OpenSearch · logs distribuídos
 
 ---
