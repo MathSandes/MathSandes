@@ -36,6 +36,9 @@ Docker · Git · GitHub Actions · AWS
 **Testes**  
 Jest · Vitest · xUnit
 
+**Observability & operations**
+Grafana · OpenSearch · logs distribuídos
+
 ---
 
 ## 📌 Featured Projects
